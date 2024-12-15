@@ -1,3 +1,5 @@
+//print n numbers n times
+
 #include <iostream>
 using namespace std;
  
